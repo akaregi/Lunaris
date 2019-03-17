@@ -5,59 +5,70 @@
 ## AKANE AKAGI
 
 2017-07-06 00:00:00
+2019-03-18 01:11:11 リファイン
 
 :::
 
-Was guwo ra rre faura here.
-此処に立つ鳥よ
+Was ki ra hyear, whou faura zenva.
+飛び立とうとする小鳥よ
 
-Was guwo ga yora knawa yor wis titilia, van so titilia.
-汝は未だ塵にも満たぬ、些々たる存在ということを知れ
+Was zweie ra yorra viss noes chs titilia.
+舞う塵ですらない矮小な存在であることを知れ
 
-Was guwo ga rre walasye whou syast sos syunaht titilia.
-しがない存在であることを無くそうと、群を成す人々よ
+Was zweie ra hyear, whou nozess titilia.
+自らを強く見せようと団結する者よ
 
-Was guwo gaya yorra knawa sor wis na exec futare.
-それは意味を成さない ただ事実を受け入れよ
+Was zweie ra yorra viss noes chs denera.
+考える余地がないほど浅はかであることを知れ
 
-Wee ki ga knawa rre omnis tes chyet omnis oz didalia.
-私は、全ての存在がいずれ淘汰され、強き存在のみが残ることを知っている
+Was ki wa rre ciel wis sos chyet pauwee.
+弱き存在はいずれ滅び、強い者のみが生き残る
 
-Wee ki ga cest en cyurio anw ar dor.
-それこそ真実であり、そしてこの土地の理である
+Was ki wa viss cyurio rre dor unloee.
+我々はこの原則に縛られている
 
-Rrha guwo gaya whai yorra na unloee sor, cenjue cest, senjue discest?
-何故君らは諦めずに真実を変えようと努力を続けるのか？
+Rrha guwo ra whai yorra wazx ruinie race.
+なぜあえて抗おうとするのか
 
-Was zweie wa irs weak en sheak, wis cyurio.
-月と太陽が存在するのは当然のことだ
+Was zweie ra rre sheak en weak manafeeze.
+月と太陽があるような普遍的な原則に
 
-Was guwo ga whai na unloee dor rol sor?
-何故、世界の理に従わない？
+Rrha yea ra foul whai yorra na netvear.
+理に従わないとは実に馬鹿馬鹿しい
 
-Was num wa titilia wart chs didalia wart?
-幽き言葉が権勢を張る存在になるとでも？
+Rrha yea ra foul qafl wart na cyurio cenjue dor.
+根拠なき言葉が世界を変えられると思うのか
 
-Fou paks wa yorra re dhezeall der coall.
-君たちは一つの塊に集えば強大な力となる、という幻を見ているだけだ
+Rrha yea ra foul rre synk chs pauwel, layy zactor.
+力が一点に集えば抗えるという虚構を信じているのか
 
-Faura sonwe revm yehar sos bexm yehah.
-小鳥は謳う 幸せが来る刻の為に、夢を現実にさせようと
+Rrha yea ra foul rre yorra grlanza, hyear.
+聞こえるか、嘘に翻弄される者共よ
 
-Faura sonwe ee der pauwee.
-小鳥は謳う 集った人々の力を行使して
+＊
 
-Faura na sonwe sos sor na knawa revm cexm revm.
-小鳥は謳わなくなった 幻は所詮幻という事実を知らなかったから
+Nn num gaya hueaf rre faura zenva sos revm chs cest.
+小鳥は謳う 夢を現実にするために
 
-Faura na sonwe ee der pauwee.
-小鳥は謳わなくなった 力なき力からは、何も生み出されない
+Nn num gaya hueaf rre Faura zenva sos pauwel xest.
+小鳥は謳う 力を現実にするために
 
-Rrha ki ga forgandal sor en yorra knawa.
-故に、君達は知れ
+Rrha waa erra wael rre faura netvear forgandal revm syunaht.
+小鳥は諦めた 幻は幻にすぎなかったから
 
-Rrha num wa titilia na chs didalia.
-小さき存在がそれ以上になることはない
+Rrha waa erra wael rre faura netvear forgandal kierre ftt.
+小鳥は諦めた 努力が実るときは来なかったから
 
-Rrha num wa cest chs cest.
-世の歯車も真実も、夢物語で変わることはない
+＊
+
+Rrha zweie ra hyear, whou *zauve*.
+自ら賢いと思う者よ
+
+Rrhe zweie ra hyear, wazx cenjue.
+その考えを改めよ
+
+Rrha zweie ra rre zeeth irs etealune.
+変わらないものは変わらない
+
+Rrha zweie ra rre revm na sonwe.
+夢は夢に過ぎない
