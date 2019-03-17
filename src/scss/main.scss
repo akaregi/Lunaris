@@ -1,0 +1,52 @@
+@import "normalize.css";
+
+@import "mixins";
+@import "variables";
+
+@import "heading";
+@import "block";
+@import "inline";
+
+body {
+    font-size: 16px;
+    font-family: $font-main;
+    color: $color;
+
+    font-kerning: normal;
+    font-feature-settings: "palt";
+
+    line-height: 1.46;
+}
+
+main {
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+
+    margin: 10vh 1rem;
+}
+
+article, footer {
+    width: 80vw;
+}
+
+footer {
+    margin-top: 10vh;
+}
+
+@include media(md) {
+    body {
+        font-size: 18px;
+    }
+}
+
+@include media(lg) {
+    body {
+        font-size: 20px;
+    }
+
+    article, footer {
+        width: 768px;
+    }
+}

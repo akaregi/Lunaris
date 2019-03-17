@@ -1,0 +1,24 @@
+$breakpoints: (
+    'sm': 'screen and (min-width: 400px)',
+    'md': 'screen and (min-width: 768px)',
+    'lg': 'screen and (min-width: 1024px)',
+    'xl': 'screen and (min-width: 1366px)',
+) !default;
+
+@mixin media($breakpoint: md) {
+    @media #{map-get($breakpoints, $breakpoint)} {
+        @content;
+    }
+}
+
+@function pow($number, $exponent) {
+    $value: 1;
+
+    @if $exponent>0 {
+        @for $i from 1 through $exponent {
+            $value: $value * $number;
+        }
+    }
+
+    @return $value;
+}

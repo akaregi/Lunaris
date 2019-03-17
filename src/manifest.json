@@ -1,0 +1,8 @@
+{
+    "name": "Lunaris",
+    "short_name": "Lunaris",
+    "start_url": "/",
+    "theme_color": "#02020e",
+    "background_color": "#02020e",
+    "display": "standalone"
+}

@@ -1,0 +1,40 @@
+@import "mixins";
+@import "variables";
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: $font-heading;
+
+    line-height: 1.15;
+}
+
+$size: 1rem;
+
+$ratio: 1.1;
+
+@for $exp from 1 through 6 {
+    $header: 7 - $exp;
+
+    @if $exp !=1 {
+        $size: $size * $ratio;
+    }
+
+    h#{$header} {
+        font-size: $size;
+        margin: $size * 2 0 $size * 0.8;
+    }
+}
+
+.metadata {
+    & h1 {
+        margin-bottom: 1.25rem;
+    }
+
+    & h1, & h2 {
+        margin-top: 1.25rem;
+    }
+}

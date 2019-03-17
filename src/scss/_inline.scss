@@ -1,0 +1,74 @@
+@import "variables";
+
+a {
+    color: $link;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+em, var {
+    font-feature-settings: "ital";
+}
+
+sub, sup {
+    font-size: 100%;
+}
+
+sup {
+    top: 0;
+    font-feature-settings: "sups";
+}
+
+sub {
+    font-feature-settings: "subs";
+    bottom: 0;
+}
+
+code {
+    display: inline-block;
+    text-align: initial;
+
+    font-size: 1rem;
+
+    border-radius: 5px;
+    padding: 0 1rem * 0.5;
+
+    background: $background;
+}
+
+samp {
+    display: inline-block;
+    text-align: initial;
+
+    font-size: 1rem;
+}
+
+kbd {
+    border-radius: 5px;
+    padding: 0 1rem * 0.5;
+
+    font-size: 1rem;
+
+    background: $color;
+    color: $background;
+
+    & kbd {
+        padding: 0;
+    }
+}
+
+mark {
+    font-size: 1rem;
+
+    border-radius: 5px;
+    padding: 0 1rem * 0.5;
+
+    background: $color-highlight;
+}
+
+ruby > rt {
+    font-size: .8rem;
+}

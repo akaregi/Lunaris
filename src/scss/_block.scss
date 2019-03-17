@@ -1,0 +1,43 @@
+@import "mixins";
+@import "variables";
+
+p {
+    margin: 1rem * $ratio 0;
+
+    text-align: justify;
+}
+
+dl,
+ul,
+ol {
+    margin: 1rem * $ratio 0;
+
+    & ul,
+    & ol {
+        margin: 0;
+    }
+}
+
+blockquote {
+    margin: 1rem * $ratio 0;
+    border-left: 3px solid $foreground;
+    padding-left: 1rem;;
+}
+
+img {
+    max-width: 100%;
+}
+
+hr {
+    margin: 1rem * pow($ratio, 5) 0;
+    border: 0;
+    border-top: 3px solid $foreground;
+}
+
+.metadata {
+    margin-bottom: 10vh;
+}
+
+.text-right p, .text-right span {
+    text-align: right;
+}
