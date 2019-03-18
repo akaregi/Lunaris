@@ -3,6 +3,8 @@ const gulp = require('gulp')
 // Common
 const fs = require('fs');
 const path = require('path')
+
+// Gulp
 const data = require('gulp-data')
 const rename = require('gulp-rename')
 
@@ -34,28 +36,42 @@ gulp.task('html', done => {
 
     // Build hymmnos markdown
     files.forEach(file => {
+        // Ignore _index.md
         if (file === "_index.md") {
             return;
         }
 
-        const filePath = dir + file
+        console.time(file.padEnd(36))
+
+        // File name, EXEC_AR=LUSYE
         const fileName = file.replace('.md', '')
 
-        console.log('Processing: ' + filePath)
+        // File path, src/docs/EXEC_AR=LUSYE.md
+        const filePath = dir + file
+
+        // Document name, e.g. "EXEC_AR=LUSYE/."
+        const docName = fileName + '/.'
+
+        // Document url, exec_ar_lusye
+        const docUrl = fileName.replace('=', '_').toLowerCase()
+
+        // Document path, e.g. hymm/exec_ar_lusye
+        const docPath = 'hymm/' + docUrl
 
         gulp.src('src/views/template.pug')
-            .pipe(rename(fileName + '.html'))
+            .pipe(rename(docUrl + '.html'))
             .pipe(data(() => {
                 return {
                     base: "../",
-                    url: "hymm/" + fileName.toLowerCase(),
-                    file: fileName,
-                    title: fileName + '/.',
+                    url: docPath,
+                    title: docName,
                     text: markdown.render(fs.readFileSync(filePath).toString())
                 }
             }))
             .pipe(pug())
             .pipe(gulp.dest('dist/hymm/'))
+
+        console.timeEnd(file.padEnd(36))
     });
 
     // Build Index.html
