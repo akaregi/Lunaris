@@ -12,6 +12,8 @@ body {
     font-family: $font-main;
     color: $color;
 
+    background: $background;
+
     font-kerning: normal;
     font-feature-settings: "palt";
 
@@ -25,6 +27,11 @@ main {
     flex-direction: column;
 
     margin: 10vh 1rem;
+}
+
+::selection {
+    color: #fff;
+    background: $link;
 }
 
 article, footer {
