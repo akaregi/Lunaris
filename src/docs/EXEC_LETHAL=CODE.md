@@ -5,84 +5,109 @@
 ## AKANE AKAGI
 
 2017-11-23 00:56:39
+2019-03-20 18:36:11 リファイン
 
 :::
 
-Presia, presia, wearequewie ar quive.
-願うのは一つ 場の静寂であり、
-Was zweie wa tasyue omnis sos.
-その為なら全てを失っても構わない
+presia, presia, rre quive dor cexm,
+私はただ静寂を望む
 
-Was ki wa jass vianchiel kierre.
-それが私の求める夢
-Rrha num ga tasyue walasye.
-私の同胞を全て失ってでも叶われるべき夢
+Was zweie ga tasyue omnis iem.
+そのためならすべてを失っても構わない
 
-Rrha i wa van revm chs tarfe.
-しかし、夢は動かぬまま
-Rrha i ga nha mea iem.
+Was zweie ra rre wearequewie revm,
+それは私が求めし夢
+
+Was zweie ra rre sarrifis revm.
+同胞を失ってでも叶えたい夢
+
+＊
+
+Rrha i ga van revm tarfe.
+しかし夢は動かない
+
+Rrha i ga ruinie race.
 今こそ立ち上がる時
 
-Rrha ki ra exec hymme LETHAL=CODE.
+Rrha ki ra chs hymmnos *LETHAL=CODE* mea.
 私は謳います…
 
-Rrha zweie ra enrer knawa ides.
-昔から想っていた
-Rrha guwo ga whai walasye na unloee cyurio.
-何故人々は秩序を保つことがないのか
-Rrha guwo ga whai walasye chs dor ruinie.
-何故人々は混乱を選び続けるのか
-Rrha guwo ga whai walasye na ene.
-何故人々は考えないのか
+＊
 
-Rrha zweie ra enrer weel ides.
+*Was zweie ra 0x vvi*.
+
+ene enerel ar cyurio,
+昔から考えていた
+
+whai walasye guaysu harmon,
+なぜ人は動かないのか
+
+whai walasye chs polon,
+なぜ人は協力しないのか
+
+whai walasye na rifaien.
+なぜ人は変わらないのか
+
+＊
+
+*1x AAs ixi* en *Fou granme ra 0x vvi*.
+
+wearequewie enerel,
 昔から願っていた
-Accrroad cyurio tes walasye.
-秩序を芽生えさせ、
-Accrroad ruinie nel tes walasye.
-混乱を無くし、
-Accrroad ene tes walasye.
+
+engassya gyas innna walasye,
+混乱をなくし
+
+pomb cyurio innna walasye.
+秩序を芽生えさせ
+
+accrroad enesse tou walasye.
 思考を人々に与えることを
 
-Rrha ki ga rre omnis chsee revm.
-しかし、想いも願いも所詮夢でしか無かった
-Rrha i ga ar ciel gaunji mea iem.
-世界は私を苛む 苛み続ける
-Rrha yea ra van aiph revm cexm.
-それでも夢を現実にするために
-Rrha zweie ga exec iem.
-私は試みた
+＊
 
-Rrha num gaya noes nozess lhasya oz walasye.
-私は自ら人々との関係を絶ち、
-Rrha num gaya chs omnis syunaht.
-私は最早他人を気にすることをせず、
-Rrha yea ra irs noes ar ciel.
-私はただ一人だけでいようとした
-Rrha i ga van clemezen.
-例えそれが狂気の沙汰であってでも
+*1x AAs ixi* en *Was num gaya 0x vvi*.
 
-Rrha num ga cyurio na re ates tes walasye.
-秩序は人々に受け入れられることなく拒絶され、
-Rrha num ga rre ruinie re ugi art walasye.
-混沌はなおも広がり、
-Rrha num ga rre ene na irs innna walasye.
-その世界に思考は無い
+rre revm nor enesse na xest.
+しかし、夢は叶わず思いは届かなかった
 
-Rrha yea ra unloee dsier.
-私は私の望みに従おうとした
-Rrha yea ra vit ar xactin.
-そして、考えられる唯一の答えを見つけた
-Rrha yea ra li chsee mea.
-結局、私が変わってしまえば、それでいい
-Rrha yea ra pak revm chs cest.
-そうすれば、夢は現実となるだろう
+rre ar ciel gyengyat sphilar.
+世界は心を苛む
 
-Rrha ki ra biron hymme LETHAL=CODE.
+den wearequewie gyen,
+それでも成し遂げたい
+
+van rre omnis chs clemezen.
+たとえ狂気の沙汰であろうとも
+
+＊
+
+*1x AAs ixi* en *Rrha num ga 0x vvi*.
+
+unloee dsier noes.
+私は自らの望みに従う
+
+van rre cyurio nozess.
+秩序が受け入れられなくても
+
+van rre manafaln gyuss.
+混乱が世界を埋め尽くしても
+
+van rre enesse na irs.
+想いが何一つなくても
+
+＊
+
+*1x AAs ixi* en *Was zweie gagis 0x vvi*.
+
+chs hymmnos *LETHAL=CODE* mea.
 私は謳い続けます…
-Rrha yea ra endia aiph bexm kierre fulual.
+
+fulual dsier.
 夢が叶う、その時まで
-Rrha yea ra biron hymme LETHAL=CODE.
+
+chs hymmnos *LETHAL=CODE* mea.
 私は謳い続けます…
-Rrha yea ra sos dsier chs cest.
+
+faja enrer.
 望みを叶えるために
