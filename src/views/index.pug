@@ -5,7 +5,7 @@ block article
         | !{text}
 
         each file in files
-            p: a(href="hymm/" + file.toLowerCase()) #{file}/.
+            p: a(href="hymm/" + file.replace('=', '_').toLowerCase()) #{file}/.
 
 
 //-
