@@ -1,36 +1,41 @@
-const gulp = require('gulp')
+import { src, dest, parallel } from 'gulp'
 
 // Common
-const fs = require('fs');
-const path = require('path')
+import fs from 'fs';
+import path from 'path'
 
 // Gulp
-const data = require('gulp-data')
-const rename = require('gulp-rename')
+import data from 'gulp-data'
+import rename from'gulp-rename'
 
 // HTML
-const pug = require('gulp-pug')
-const markdown = require('markdown-it')({
+import jade from 'gulp-pug'
+
+import MarkdownIt from 'markdown-it'
+import markdown_it_div from 'markdown-it-div'
+import markdown_it_def from 'markdown-it-deflist'
+
+const markdown = new MarkdownIt({
         html: true,
         breaks: true,
         linkify: true,
         typographer: true
     })
-    .use(require('markdown-it-div'))
-    .use(require('markdown-it-deflist'))
+    .use(markdown_it_div)
+    .use(markdown_it_def)
 
 // CSS
-const sass = require('gulp-sass')
+import sass from 'gulp-sass'
 
-const postcss = require('gulp-postcss')
-const cssnano = require('cssnano')
-const importer = require('postcss-import')
-const autoprefixer = require('autoprefixer')
+import postcss from 'gulp-postcss'
+import cssnano from 'cssnano'
+import importer from 'postcss-import'
+import autoprefixer from 'autoprefixer'
 
 // JavaScript
-const babel = require('gulp-babel')
+import babel from 'gulp-babel'
 
-gulp.task('html', done => {
+export const pug = done => {
     const dir = path.normalize(__dirname + '/src/docs/')
     const files = fs.readdirSync(dir)
 
@@ -58,7 +63,7 @@ gulp.task('html', done => {
         // Document path, e.g. hymm/exec_ar_lusye
         const docPath = 'hymm/' + docUrl
 
-        gulp.src('src/views/template.pug')
+        src('src/views/template.pug')
             .pipe(rename(docUrl + '.html'))
             .pipe(data(() => {
                 return {
@@ -68,18 +73,20 @@ gulp.task('html', done => {
                     text: markdown.render(fs.readFileSync(filePath).toString())
                 }
             }))
-            .pipe(pug())
-            .pipe(gulp.dest('dist/hymm/'))
+            .pipe(jade())
+            .pipe(dest('dist/hymm/'))
 
         console.timeEnd(file.padEnd(36))
-    });
+    })
+
+    console.time('index'.padEnd(36))
 
     // Build Index.html
     const filesMap = files
         .filter(file => file !== "_index.md")
         .map(file => file.replace('.md', ''))
 
-    gulp.src('src/views/index.pug')
+    src('src/views/index.pug')
         .pipe(data(() => {
             return {
                 base: "",
@@ -89,16 +96,16 @@ gulp.task('html', done => {
                 text: markdown.render(fs.readFileSync(dir + "_index.md").toString())
             }
         }))
-        .pipe(pug())
-        .pipe(gulp.dest('dist/'))
+        .pipe(jade())
+        .pipe(dest('dist/'))
+
+    console.timeEnd('index'.padEnd(36))
 
     done()
-})
+}
 
-gulp.task('pug', gulp.parallel('html'))
-
-gulp.task('css', done => {
-    gulp.src('src/scss/*.scss')
+export const css = done => {
+    src('src/scss/*.scss')
         .pipe(sass())
 
         .pipe(postcss([
@@ -107,36 +114,34 @@ gulp.task('css', done => {
             cssnano()
         ]))
 
-        .pipe(gulp.dest('dist/css/'))
+        .pipe(dest('dist/css/'))
 
     done()
-})
+}
 
-gulp.task('js', done => {
-    gulp.src('src/js/app.js')
+export const js = done => {
+    src('src/js/app.js')
         .pipe(babel({
             presets: ['@babel/env']
         }))
-        .pipe(gulp.dest('dist/js'))
+        .pipe(dest('dist/js'))
 
     done()
-})
+}
 
-gulp.task('image', done => {
-    gulp.src('src/images/*.*')
-        .pipe(gulp.dest('dist/images/'))
-
-    // gulp.src('src/icons/*.*')
-    //     .pipe(gulp.dest('dist/icons/'))
+export const image = done => {
+    src('src/images/*.*')
+        .pipe(dest('dist/images/'))
 
     done()
-})
+}
 
-gulp.task('misc', done => {
-    gulp.src('src/manifest.json')
-        .pipe(gulp.dest('dist/'))
+export const misc = done => {
+    src('src/manifest.json')
+        .pipe(dest('dist/'))
 
     done()
-})
+}
 
-gulp.task('build', gulp.parallel('html', 'css', 'js', 'image', 'misc'))
+export const build = parallel(pug, css, js, image, misc)
+export default build
