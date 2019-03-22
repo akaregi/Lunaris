@@ -1,3 +1,13 @@
+::: metadata
+
+# METHOD_HYMME_MUTUAL=CATALYST/.
+
+## AKANE AKAGI
+
+2019/03/22 22:28:00（正確な日時不明）
+
+:::
+
 :/DIA mea c.z. REVATAIL_IPD sos yor
 >> tArm ADDR:0x1331:9213:8080; jEztaye mea enesse/:
 君は私をI.P.D.レーヴァテイルとして制御を行う。インフェルピラ上アドレス空間に精神体を展開。
