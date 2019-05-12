@@ -22,7 +22,7 @@ llizz rre fhyu gyengyat papana titilia
 rre sphilar noes iem frissoner art lurrea
 心は不安に揺れる
 
-rre luerra cexm van nozess en chs syunaht
+rre lurrea cexm van nozess en chs syunaht
 何度取り除いても不安は訪れる
 
 llizz rre mea re ks, chsee whou dhezeall maya
