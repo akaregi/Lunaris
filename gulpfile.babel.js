@@ -9,7 +9,7 @@ import data from 'gulp-data'
 import rename from'gulp-rename'
 
 // HTML
-import jade from 'gulp-pug'
+import pug from 'gulp-pug'
 
 import MarkdownIt from 'markdown-it'
 import markdown_it_div from 'markdown-it-div'
@@ -24,29 +24,16 @@ const markdown = new MarkdownIt({
     .use(markdown_it_div)
     .use(markdown_it_def)
 
-// CSS
-import sass from 'gulp-sass'
+const dir = path.normalize(__dirname + '/src/docs/')
+const files = fs.readdirSync(dir)
 
-import postcss from 'gulp-postcss'
-import cssnano from 'cssnano'
-import importer from 'postcss-import'
-import autoprefixer from 'autoprefixer'
-
-// JavaScript
-import babel from 'gulp-babel'
-
-export const pug = done => {
-    const dir = path.normalize(__dirname + '/src/docs/')
-    const files = fs.readdirSync(dir)
-
+export const hymms = done => {
     // Build hymmnos markdown
     files.forEach(file => {
         // Ignore _index.md
         if (file === "_index.md") {
             return;
         }
-
-        console.time(file.padEnd(36))
 
         // File name, EXEC_AR=LUSYE
         const fileName = file.replace('.md', '')
@@ -73,14 +60,14 @@ export const pug = done => {
                     text: markdown.render(fs.readFileSync(filePath).toString())
                 }
             }))
-            .pipe(jade())
+            .pipe(pug())
             .pipe(dest('dist/hymm/'))
-
-        console.timeEnd(file.padEnd(36))
     })
 
-    console.time('index'.padEnd(36))
+    done()
+}
 
+export const index = done => {
     // Build Index.html
     const filesMap = files
         .filter(file => file !== "_index.md")
@@ -96,52 +83,11 @@ export const pug = done => {
                 text: markdown.render(fs.readFileSync(dir + "_index.md").toString())
             }
         }))
-        .pipe(jade())
-        .pipe(dest('dist/'))
-
-    console.timeEnd('index'.padEnd(36))
-
-    done()
-}
-
-export const css = done => {
-    src('src/scss/*.scss')
-        .pipe(sass())
-
-        .pipe(postcss([
-            importer(),
-            autoprefixer(),
-            cssnano()
-        ]))
-
-        .pipe(dest('dist/css/'))
-
-    done()
-}
-
-export const js = done => {
-    src('src/js/app.js')
-        .pipe(babel({
-            presets: ['@babel/env']
-        }))
-        .pipe(dest('dist/js'))
-
-    done()
-}
-
-export const image = done => {
-    src('src/images/*.*')
-        .pipe(dest('dist/images/'))
-
-    done()
-}
-
-export const misc = done => {
-    src('src/manifest.json')
+        .pipe(pug())
         .pipe(dest('dist/'))
 
     done()
 }
 
-export const build = parallel(pug, css, js, image, misc)
+export const build = parallel(index, hymms)
 export default build

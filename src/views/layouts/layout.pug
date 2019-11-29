@@ -11,6 +11,10 @@ html(lang="ja")
 
         link(rel='manifest', href=base + 'manifest.json')
 
+        //- lunaris.netlify.com に見えるコンテンツを
+        //- lunaris.fedyya.net がオリジナルであるとするため
+        link(rel="canonical", href="https://lunaris.fedyya.net/" + url)
+
         meta(name="description"  content="")
         meta(name="author"       content="AKANE AKAGI")
         meta(name="theme-color"  content="#02020e")
@@ -18,14 +22,14 @@ html(lang="ja")
         //- OGP
         meta(property="og:locale"        content="ja_JP")
         meta(property="og:description"   content="")
-        meta(property="og:image"         content="https://lunaris.netlify.com/images/eyecatch.png")
+        meta(property="og:image"         content="https://lunaris.fedyya.net/images/eyecatch.png")
         meta(property="og:image:width"   content="1024")
         meta(property="og:image:height"  content="1024")
         meta(property="og:image:type"    content="image/png")
         meta(property="og:site_name"     content="Lunaris")
         meta(property="og:title"         content=title + "- Lunaris")
         meta(property="og:type"          content="Website")
-        meta(property="og:url"           content="https://lunaris.netlify.com/" + url)
+        meta(property="og:url"           content="https://lunaris.fedyya.net/" + url)
 
         //- トゥーウィッターウアー・OGP
         meta(name="twitter:card"    content="summary")
@@ -40,7 +44,7 @@ html(lang="ja")
                 a(rel="license", href="http://creativecommons.org/licenses/by/4.0/")
                   img(alt="クリエイティブ・コモンズ・ライセンス", style="border-width:0", src="https://i.creativecommons.org/l/by/4.0/88x31.png")
                 br
-                a(xmlns:cc="http://creativecommons.org/ns#", href="https://lunaris.netlify.com/" + url, property="cc:attributionName", rel="cc:attributionURL") AKANE AKAGI
+                a(xmlns:cc="http://creativecommons.org/ns#", href="https://lunaris.fedyya.net/" + url, property="cc:attributionName", rel="cc:attributionURL") AKANE AKAGI
                 |  作『
                 span(xmlns:dct="http://purl.org/dc/terms/", href="http://purl.org/dc/dcmitype/Text", property="dct:title", rel="dct:type") !{title}
                 | 』は
@@ -54,7 +58,7 @@ html(lang="ja")
                 "@context": "https://schema.org",
                 "@type": "WebSite",
                 "name": "!{title} - Lunaris",
-                "image": "https://lunaris.netlify.com/images/eyecatch.png",
+                "image": "https://lunaris.fedyya.net/images/eyecatch.png",
                 "keywords": "Ar Tonelico, Hymmnos, conlang, アルトネリコ, ヒュムノス, 人工言語, 創作, !{title}",
                 "license": "http://creativecommons.org/licenses/by/4.0/",
                 "material": "Infel (not character)",
