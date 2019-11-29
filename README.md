@@ -12,4 +12,4 @@ yarn build
 ## ライセンス
 
 * コード部分は [The GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
-* 詩の部分は [クリエイティブ・コモンズ 表示 4.0 国際]([https://link](https://creativecommons.org/licenses/by/4.0/deed.ja))
+* 詩の部分は [クリエイティブ・コモンズ 表示 4.0 国際](https://creativecommons.org/licenses/by/4.0/deed.ja)
