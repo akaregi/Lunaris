@@ -27,6 +27,8 @@ const hymmnosTmpl = p.compileFile('src/views/template.pug')
 const files = fs.readdirSync(path.normalize('src/contents/posts'))
 
 // Individual pages
+console.log('Creating Individual pages.')
+
 if (!fs.existsSync('dist')) {
     mkdirp('dist')
 }
@@ -42,6 +44,8 @@ const result = indexTmpl({
 fs.writeFileSync("dist/index.html", result)
 
 // Hymmnos pages
+console.log('Creating Hymmnos pages.')
+
 if (!fs.existsSync('dist/hymmnos')) {
     mkdirp('dist/hymmnos')
 }
@@ -76,3 +80,5 @@ for (const file of files) {
         }
     })
 }
+
+console.log("Created static pages.")
