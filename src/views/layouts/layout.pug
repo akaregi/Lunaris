@@ -5,14 +5,10 @@ html(lang="ja")
         meta(name="viewport" content="width=device-width, initial-scale=1.0")
         meta(http-equiv="X-UA-Compatible" content="ie=edge")
 
+        title Lunaris - !{title}
+
         link(rel="stylesheet" href=base + "css/main.css")
-
-        title !{title} - Lunaris
-
         link(rel='manifest', href=base + 'manifest.json')
-
-        //- lunaris.netlify.com に見えるコンテンツを
-        //- lunaris.fedyya.net がオリジナルであるとするため
         link(rel="canonical", href="https://lunaris.fedyya.net/" + url)
 
         meta(name="description"  content="")
@@ -57,11 +53,10 @@ html(lang="ja")
             {
                 "@context": "https://schema.org",
                 "@type": "WebSite",
-                "name": "!{title} - Lunaris",
+                "name": "Lunaris - !{title}",
                 "image": "https://lunaris.fedyya.net/images/eyecatch.png",
                 "keywords": "Ar Tonelico, Hymmnos, conlang, アルトネリコ, ヒュムノス, 人工言語, 創作, !{title}",
                 "license": "http://creativecommons.org/licenses/by/4.0/",
-                "material": "Infel (not character)",
                 "genre": "hymmnos",
                 "author": {
                     "@type": "Person",

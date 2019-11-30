@@ -21,11 +21,12 @@
     "markdown-it-deflist": "^2.0.3",
     "markdown-it-div": "^1.1.0",
     "node-sass": "^4.13.0",
-    "npm-run-all": "^4.1.5"
+    "npm-run-all": "^4.1.5",
+    "pug": "^2.0.4"
   },
   "scripts": {
-    "build": "npx run-p html:build css:build js:build image:build others:build",
-    "html:build": "npx gulp build",
+    "build": "npx run-p *:build",
+    "html:build": "node build",
     "css:build": "npx run-s css:sass css:minify",
     "css:sass": "npx node-sass src/scss/main.scss -o dist/css",
     "css:minify": "npx node-minify -i dist/css/main.css -o dist/css/main.css -c clean-css",
