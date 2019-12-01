@@ -11,8 +11,11 @@ jobs:
       matrix:
         node-version: [12.x]
 
+    steps:    
+    # git checkout
+    - uses: actions/checkout@v1
+    
     # cache
-    steps:
     - name: Get yarn cache
       id: yarn-cache
       run: echo "::set-output name=dir::$(yarn cache dir)"
@@ -23,9 +26,6 @@ jobs:
         key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
         restore-keys: |
           ${{ runner.os }}-yarn-
-    
-    # git checkout
-    - uses: actions/checkout@v1
     
     # node setup
     - name: Use Node.js ${{ matrix.node-version }}
