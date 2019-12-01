@@ -37,4 +37,4 @@ flare gauzewiga gatyunla.
 
 ----
 
-元の題は *EXEC_HYMME_ONE* でした。
+元の題は *EXEC_HYMME_ONE/.* でした。
