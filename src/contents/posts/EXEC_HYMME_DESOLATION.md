@@ -22,7 +22,7 @@ van re heighte, hymme lamenza
 
 ＊
 
-qafl lof, faja layy futare 
+qafl lof, faja layy futare
 どこで道を間違えたのだろう
 
 rre yehah enrer syunaht ides
