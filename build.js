@@ -26,8 +26,8 @@ const hymmnosTmpl = p.compileFile('src/views/template.pug')
 
 const files = fs.readdirSync(path.normalize('src/contents/posts'))
 
-// Individual pages
-console.log('Creating Individual pages.')
+// Index page
+console.log('Creating Index pages.')
 
 if (!fs.existsSync('dist')) {
     mkdirp('dist')
@@ -36,7 +36,11 @@ if (!fs.existsSync('dist')) {
 const result = indexTmpl({
     base: "",
     url: "",
-    files: files.map(file => file.replace('.md', '')),
+    files: files.map(file =>{
+        const f = file.replace('.md', '')
+
+        return f.search(/EXEC|METHOD|AR/) !== -1 ? f + "/." : f
+    }),
     title: "Lunaris",
     text: markdown.render(fs.readFileSync("src/contents/index.md").toString())
 })
@@ -61,11 +65,11 @@ for (const file of files) {
 
     // Document's name.
     // e.g. EXEC_AR=LUSYE/.
-    const docName = fileName + '/.'
+    const docName = fileName.search(/EXEC|METHOD|AR/) !== -1 ? fileName + "/." : fileName
 
     // Document's URL.
     // e.g. hymmnos/exec_ar_lusye
-    const docUrl = 'hymmnos/' + fileName.replace('=', '_').toLowerCase()
+    const docUrl = 'hymmnos/' + fileName.replace(/=/g, '_').toLowerCase()
 
     const result = hymmnosTmpl({
         base: "../",
