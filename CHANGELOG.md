@@ -1,9 +1,14 @@
 # CHANGELOG
 
+すべての変更はこのファイルに記録されます。
+
+CHANGELOG のフォーマットは [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) に従います。
+
 ## [2019-12-02]
 
 ### Added
 
+* Appended detail info to welcome page (index.md)
 * AR_HYMME_FLARE/.
 * AR_HYMME_ISOLATE/.
 * AR_HYMME_LEGACIES/.

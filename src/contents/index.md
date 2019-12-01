@@ -6,12 +6,16 @@
 
 :::
 
-## SNS
+## ようこそ
 
-Twitter:
-: [@akgmoegi](https://twitter.com/akgmoegi)
+ここ **Lunaris** では「あかれぎ」（[マストドン](https://felesitas.cloud/@akane)・[Twitter](https://twitter.com/akgmoegi)）の紡いだヒュムノスの詩を収録しています。下記のライセンス（CC BY 4.0）の範囲において自由に使っていただいて構いません。
 
-Mastodon:
-: [@akaregi@mstdn.jp](https://mstdn.jp/@akaregi)
+EXEC と METHOD はすでにご存知でしょうが、AR は見慣れないものかと思います。AR から始まる詩は私の独自文法である **Ar Lusye** が適用されたものです。Ar Lusye の文法事項は近いうち公開されます。待っててね。
 
-## 詩
+歴史上の理由で、私の名前表記は複数あります。「あかれぎ」＝「赤城茜」＝「akaregi」＝「AKANE AKAGI」です。これらはすべて私の名前です。詩の題に記載されている名前はすべて「AKANE AKAGI」になっています。
+
+## ライセンス
+
+ここに載っている詩はすべて「[クリエイティブ・コモンズ 表示 4.0 国際](https://creativecommons.org/licenses/by/4.0/deed.ja)」の元に頒布されます。すなわち私（あかれぎ）の著作権表示がある限り、あなたはそれぞれの詩の複製・再頒布と翻案ができます。詳細はリンク先のライセンス文を参照してください。
+
+## 詩の一覧
