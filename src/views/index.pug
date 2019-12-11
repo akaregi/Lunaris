@@ -2,7 +2,11 @@ extends layouts/layout
 
 block article
     article
-        | !{text}
+        h1 #{attr.title}
+        | !{body}
 
         each file in files
-            p: a(href="hymmnos/" + file.replace(/=/g, '_').replace('/.', '').toLowerCase() + '.html')  #{file}
+            //- file[0] = path
+            //- file[1] = name
+            //- p: a(href="hymmnos/exec_adapter") EXEC_ADAPTER/.
+            p: a(href="hymmnos/" + file[0] + '.html') #{file[1]}

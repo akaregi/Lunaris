@@ -9,6 +9,7 @@
     "@node-minify/clean-css": "^5.2.0",
     "@node-minify/cli": "^5.2.1",
     "cpx": "^1.5.0",
+    "front-matter": "^3.0.2",
     "markdown-it": "^10.0.0",
     "markdown-it-deflist": "^2.0.3",
     "markdown-it-div": "^1.1.0",
@@ -18,7 +19,9 @@
   },
   "scripts": {
     "build": "npx run-p *:build",
-    "html:build": "node build",
+    "html:build": "npx run-p html:index html:pages",
+    "html:index": "node tasks/index",
+    "html:pages": "node tasks/pages",
     "css:build": "npx run-s css:sass css:minify",
     "css:sass": "npx node-sass src/scss/main.scss -o dist/css",
     "css:minify": "npx node-minify -i dist/css/main.css -o dist/css/main.css -c clean-css",

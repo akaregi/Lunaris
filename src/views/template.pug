@@ -1,4 +1,16 @@
 extends layouts/layout
 
 block article
-    article !{text}
+    article
+        .metadata
+            h1 #{attr.title}
+            p
+                time(datetime=attr.published) #{attr.published}
+                |  新規
+
+            if attr.edited
+                p
+                    time(datetime=attr.edited) #{attr.edited}
+                    |  更新
+
+        | !{body}
