@@ -7,6 +7,7 @@ html(lang="ja")
 
         title Lunaris - !{attr.title}
 
+        link(rel="stylesheet", href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css")
         link(rel="stylesheet" href=base + "css/main.css")
         link(rel='manifest', href=base + 'manifest.json')
         link(rel="canonical", href="https://lunaris.fedyya.net/" + url)
@@ -47,13 +48,11 @@ html(lang="ja")
                 a(rel="license", href="http://creativecommons.org/licenses/by/4.0/") クリエイティブ・コモンズ 表示 4.0 国際 ライセンス
                 | で提供されています。
 
-        script(src=base + "js/app.js")
-
         script(type='application/ld+json').
             {
                 "@context": "https://schema.org",
                 "@type": "WebSite",
-                "name": "Lunaris - !{title}",
+                "name": "Lunaris - !{attr.title}",
                 "image": "https://lunaris.fedyya.net/images/eyecatch.png",
                 "keywords": "Ar Tonelico, Hymmnos, conlang, アルトネリコ, ヒュムノス, 人工言語, 創作, !{title}",
                 "license": "http://creativecommons.org/licenses/by/4.0/",
