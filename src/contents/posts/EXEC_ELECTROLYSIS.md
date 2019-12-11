@@ -1,6 +1,6 @@
 ---
 title: "EXEC_ELECTROLYSIS/."
-published: ""
+published: "某日"
 edited: [""]
 ---
 

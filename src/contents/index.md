@@ -1,6 +1,6 @@
 ---
 title: "Lunaris"
-published: ""
+published: "某日"
 edited: ""
 ---
 
