@@ -8,7 +8,7 @@ block article
                 time(datetime=attr.published) #{attr.published}
                 |  新規
 
-            if attr.edited
+            if attr.edited === "" || attr.edited === undefined
                 p
                     time(datetime=attr.edited) #{attr.edited}
                     |  更新
