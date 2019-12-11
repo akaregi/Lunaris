@@ -2,7 +2,9 @@ extends layouts/layout
 
 block article
     article
-        h1 #{attr.title}
+        .metadata
+            h1 #{attr.title}
+
         | !{body}
 
         each file in files
