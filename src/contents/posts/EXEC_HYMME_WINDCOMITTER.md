@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_WINDCOMITTER/.
-
-## AKANE AKAGI
-
-2016-09-30 22:11:23
-
-:::
+---
+title: "EXEC_HYMME_WINDCOMITTER/."
+published: "2016-09-30"
+edited: [""]
+---
 
 Rrha paks gagis gran aiph mea faja eetor oz pakz mean enw enclone cyuie enesse.
 切なき想いを共にして私たちを分断する壁を乗り越えた時それは幕を開ける

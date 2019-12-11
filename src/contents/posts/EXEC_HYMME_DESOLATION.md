@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_DESOLATION/.
-
-## AKANE AKAGI
-
-2019-06-08 23:26:00
-
-:::
+---
+title: "EXEC_HYMME_DESOLATION/."
+published: "2019-06-08"
+edited: [""]
+---
 
 wearequewie naja ides
 過去に戻って
@@ -62,7 +58,7 @@ en afezeria der yassa cenjue
 slep noes yasra innna revm re grandus
 ただ安らかに眠りたい
 
-----
+---
 
 *How werlla zarle tes mean. En sphilar werlwe sos futare fedyya.*
 

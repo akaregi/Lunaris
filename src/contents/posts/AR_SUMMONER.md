@@ -1,12 +1,8 @@
-::: metadata
-
-# AR_SUMMONER/.
-
-## AKANE AKAGI
-
-2019-07-20
-
-:::
+---
+title: "AR_SUMMONER/."
+published: "2019-12-02"
+edited: [""]
+---
 
 Was yea ra tasyue *a* enesse *rak te*.
 私の想いを捧げます
@@ -31,6 +27,6 @@ Hymmnos, *ayai sis* cexm.
 Ammue cenjue Ar Dor!
 波動が世界を突き動かす！
 
-----
+---
 
 斜体部分は *AR=LUSYE* 拡張による語です。

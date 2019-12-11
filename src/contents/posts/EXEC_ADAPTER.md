@@ -1,13 +1,8 @@
-::: metadata
-
-# EXEC_ADAPTER/.~ar phira, rol KCN.
-
-## AKANE AKAGI
-
-2016-12-27 00:47:35
-2019-03-14 03:30:14 リファイン
-
-:::
+---
+title: "EXEC_ADAPTER/.~ar phira, rol KCN."
+published: "2016-12-27"
+edited: ["2019-03-14"]
+---
 
 Wee zweie ra crannidale yor.
 あなたを世界に分散させよう
@@ -77,7 +72,7 @@ nor rippllys anw deata.
 rre futare chs rol mea revm.
 もう未来は決まっている
 
-----
+---
 
 効果:
 : 相手の「価値」を犠牲として、自分自身の欲望を果たす。

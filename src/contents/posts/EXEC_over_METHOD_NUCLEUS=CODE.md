@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_over.METHOD_NUCLEUS=CODE/.~fault
-
-## AKANE AKAGI
-
-2018-10-20 02:07:13
-
-:::
+---
+title: "EXEC_over.METHOD_NUCLEUS=CODE/.~fault"
+published: "2018-10-20"
+edited: [""]
+---
 
 Sanctum spitze.
 其れは自由の箱舟

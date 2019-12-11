@@ -1,15 +1,11 @@
-::: metadata
-
-# METHOD_HYMME_MUTUAL=CATALYST/.
-
-## AKANE AKAGI
-
-2019/03/22 22:28:00（正確な日時不明）
-
-:::
+---
+title: "METHOD_HYMME_MUTUAL=CATALYST/."
+published: "2019-03-22"
+edited: [""]
+---
 
 :/DIA mea c.z. REVATAIL_IPD sos yor
->> tArm ADDR:0x1331:9213:8080; jEztaye mea enesse/:
+\>\> tArm ADDR:0x1331:9213:8080; jEztaye mea enesse/:
 君は私をI.P.D.レーヴァテイルとして制御を行う。インフェルピラ上アドレス空間に精神体を展開。
 私の想いは実行されたい。
 
@@ -170,7 +166,7 @@ li wAf lapo yor, wAf lEncA yor/.
 YEreta fEwErE en innna tErYEm/.
 どうか私の想いを、受け入れて。
 
-----
+---
 
 > 勇気がないために、互いの顔を見ることすらままならない恋人(男の子 && 女の子)二人。
 > 昔、一緒に結婚して将来を育むと約束したのにも関わらず、中々言葉も交せない。

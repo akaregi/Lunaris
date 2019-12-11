@@ -1,12 +1,8 @@
-::: metadata
-
-# METHOD_HYMME_UNIFICIEL/.
-
-## AKANE AKAGI
-
-2016-09-30 22:12:23
-
-:::
+---
+title: "METHOD_HYMME_UNIFICIEL/."
+published: "2016-09-30"
+edited: [""]
+---
 
 Reta wAsA siann/.
 

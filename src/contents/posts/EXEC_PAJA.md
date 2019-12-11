@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_PAJA/.#akaregi extracting.
-
-## AKANE AKAGI
-
-2016-11-03 22:52:08
-
-:::
+---
+title: "EXEC_PAJA/.#akaregi extracting."
+published: "2016-11-03"
+edited: [""]
+---
 
 Was ki ra paul dius iem en manafeeze.
 尊い今を感じて、そして生きよう

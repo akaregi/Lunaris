@@ -1,13 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_BELIEVTHINK/.
-
-## AKANE AKAGI
-
-2016-09-30 22:15:01
-2019-03-14 03:03:14 リファイン
-
-:::
+---
+title: "EXEC_HYMME_BELIEVTHINK/."
+published: "2016-09-30"
+edited: ["2019-03-14"]
+---
 
 Wee wol ra presia cexm enesse, tes yeal!
 私の想いよ、絆の下に届け！
@@ -21,7 +16,7 @@ Was wol ra rol na futare naja!
 Was wol ra rre enesse chs ridailnae!
 この想いは私にとって大切なものなのだから！
 
-----
+---
 
 誤字修正したり意味が通じやすくなるようにリファインしたり。
 

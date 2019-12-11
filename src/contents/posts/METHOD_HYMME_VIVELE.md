@@ -1,12 +1,8 @@
-::: metadata
-
-# METHOD_HYMME_VIVELE/.
-
-## AKANE AKAGI
-
-2016-05-26 20:03:32
-
-:::
+---
+title: "METHOD_HYMME_VIVELE/."
+published: "2016-05-26"
+edited: [""]
+---
 
 xN rre jLYAzYAtA ag aje/.
 何度でも何度でも続ける

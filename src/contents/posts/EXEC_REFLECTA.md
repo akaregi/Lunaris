@@ -1,12 +1,8 @@
-:::
-
-# EXEC_REFLECTA_includes.EX_DICIEL/.
-
-## AKANE AKAGI
-
-2016/7/10 22:56:47
-
-:::
+---
+title: "EXEC_REFLECTA_includes.EX_DICIEL/."
+published: "2016/7/10 "
+edited: [""]
+---
 
 [EXEC_REFLECTAの実行]
 Fou paks ra exec REFLECTA >> SOL=FAGE/1x10 enter FRELIA.

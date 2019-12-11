@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_SOLSAASH/.
-
-## AKANE AKAGI
-
-2016-12-11 22:50:08
-
-:::
+---
+title: "EXEC_HYMME_SOLSAASH/."
+published: "2016-12-11"
+edited: [""]
+---
 
 Rrha num ga hymme ammue enw keenis.
 いざ奏でよ 光の黎明と共に

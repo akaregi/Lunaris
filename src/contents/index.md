@@ -1,10 +1,8 @@
-::: metadata
-
-# Lunaris
-
-## AKANE AKAGI
-
-:::
+---
+title: "Lunaris"
+published: ""
+edited: ""
+---
 
 ## ようこそ
 

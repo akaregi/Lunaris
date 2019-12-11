@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_RECOVER/.
-
-## AKANE AKAGI
-
-2016-11-03 22:51:28
-
-:::
+---
+title: "EXEC_HYMME_RECOVER/."
+published: "2016-11-03"
+edited: [""]
+---
 
 Fou zweie ra rre futare tarfe, feddya parge,
 訪れぬ未来 消えた明日
@@ -28,6 +24,6 @@ Fou zweie ra rre dor enw na yeal,
 Was granme ra rre ieeya na syunaht enerel.
 それでも希望は失われない
 
-----
+---
 
 元の題は *EXEC_HYMME_ZVEZDOM/.* でした。

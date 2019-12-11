@@ -1,12 +1,8 @@
-:::
-
-# METHOD_HYMME_PRESSURE/.
-
-## AKANE AKAGI
-
-2017-09-13 23:36:03
-
-:::
+---
+title: "METHOD_HYMME_PRESSURE/."
+published: "2017-09-13"
+edited: [""]
+---
 
 van xN rre urgn hIlsUsNeh eetor ttu c.z. -> iwl pLYNswNt Aujes_ouwua/.
 例えこの嘆きが地平線の先にさえ届いたとしても…

@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_LUX/.
-
-## AKANE AKAGI
-
-2019-05-13 02:26:08
-
-:::
+---
+title: "EXEC_HYMME_LUX/."
+published: "2019-05-13"
+edited: [""]
+---
 
 Was num ra 0x vvi.
 

@@ -1,13 +1,8 @@
-::: metadata
-
-# EXEC_SUBLIMATION/.#akaregi extracting.
-
-## AKANE AKAGI
-
-2017-11-01 12:41:03
-2019-03-15 20:31:11 リファイン
-
-:::
+---
+title: "EXEC_SUBLIMATION/.#akaregi extracting."
+published: "2017-11-01"
+edited: ["2019-03-15"]
+---
 
 Was zweie ra 0x vvi.
 

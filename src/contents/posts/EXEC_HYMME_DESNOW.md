@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_DESNOW/.
-
-## AKANE AKAGI
-
-2016-11-12 00:00:00
-
-:::
+---
+title: "EXEC_HYMME_DESNOW/."
+published: "2016-11-12"
+edited: [""]
+---
 
 Ma ki ra chs hymmnos mea.
 私は詩になります

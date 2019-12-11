@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_FALLHALL/.
-
-## AKANE AKAGI
-
-2016-09-30 22:10:54
-
-:::
+---
+title: "EXEC_HYMME_FALLHALL/."
+published: "2016-09-30"
+edited: [""]
+---
 
 Rrha apea gagis enrer clemezen enw re gyusya, en.
 いつの時も狂ってるけど

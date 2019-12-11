@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_NEXTA/.
-
-## AKANE AKAGI
-
-2016-06-15 22:12:21
-
-:::
+---
+title: "EXEC_HYMME_NEXTA/."
+published: "2016-06-15"
+edited: [""]
+---
 
 Wee ki gagis en yor, en mean.
 
@@ -18,6 +14,6 @@ Was granme ra skit iem.
 
 Was zweie ra rre walasye nha chyet futare.
 
-----
+---
 
 よくわからない…

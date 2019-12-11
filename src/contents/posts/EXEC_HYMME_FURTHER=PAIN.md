@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_FUTHER=PAIN/.
-
-## AKANE AKAGI
-
-2017-04-03 23:40:02
-
-:::
+---
+title: "EXEC_HYMME_FUTHER=PAIN/."
+published: "2017-04-03"
+edited: [""]
+---
 
 *xe riomo zodaw*.
 *xe riomo zodaw iem*.

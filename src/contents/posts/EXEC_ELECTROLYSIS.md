@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_ELECTROLYSIS/.
-
-## AKANE AKAGI
-
-いつ紡いだんだっけ？
-
-:::
+---
+title: "EXEC_ELECTROLYSIS/."
+published: ""
+edited: [""]
+---
 
 Ma quel wa exec hymme *ELECTOLYSIS* >> SOL=FAGE/1x10 enter FRELIA…
 フレリアと意識を共有しています…

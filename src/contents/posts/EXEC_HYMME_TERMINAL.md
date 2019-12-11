@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_TERMINAL/.
-
-## AKANE AKAGI
-
-2019-05-31
-
-:::
+---
+title: "EXEC_HYMME_TERMINAL/."
+published: "2019-05-31"
+edited: [""]
+---
 
 Nn zweie ga rre lusye syunaht.
 光は途絶えた

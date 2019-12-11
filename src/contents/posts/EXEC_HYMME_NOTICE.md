@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_FINAL=NOTICE/.
-
-## AKANE AKAGI
-
-2017-11-01 12:42:55
-
-:::
+---
+title: "EXEC_HYMME_FINAL=NOTICE/."
+published: "2017-11-01"
+edited: [""]
+---
 
 rre kierre bexm here, alroetsue kierre sos pitod.
 時が来る。互いの贖罪の時が。

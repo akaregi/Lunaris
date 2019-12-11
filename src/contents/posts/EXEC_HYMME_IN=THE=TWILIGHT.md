@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_IN=THE=TWILIGHT/.
-
-## AKANE AKAGI
-
-2019-09-23
-
-:::
+---
+title: "EXEC_HYMME_IN=THE=TWILIGHT/."
+published: "2019-09-23"
+edited: [""]
+---
 
 Ma jyel ra rre adyya ftt en gran fedyya.
 今日が終わり明日が始まる

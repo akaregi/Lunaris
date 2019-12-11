@@ -1,12 +1,8 @@
-::: metadata
-
-# METHOD_C/.
-
-## AKANE AKAGI
-
-2019-01-19
-
-:::
+---
+title: "METHOD_C/."
+published: "2019-01-19"
+edited: [""]
+---
 
 jAzt liera/.
 これで終わりにしよう。
@@ -41,6 +37,6 @@ cAz futare. cAz zz nx.
 cEzE **METHOD_C**/.
 私は詩になる
 
-----
+---
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9jK-NcRmVcw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

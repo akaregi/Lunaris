@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_SPHILAR=BREAKER/.
-
-## AKANE AKAGI
-
-2017-12-28 23:39:31
-
-:::
+---
+title: "EXEC_HYMME_SPHILAR=BREAKER/."
+published: "2017-12-28"
+edited: [""]
+---
 
 Ma guwo ga unloee mea en na cyurio tes yor. Ma guwo ga rre fogabe art sor na accrroad.
 従え。理由は要らない。それだけのことをして、許される筈がない。

@@ -1,12 +1,8 @@
-::: metadata
-
-# METHOD_REBOOT/.
-
-## AKANE AKAGI
-
-2019-03-27
-
-:::
+---
+title: "METHOD_REBOOT/."
+published: "2019-03-27"
+edited: [""]
+---
 
 vAsk dyya iwl hArInt here/.
 長い道のりだった

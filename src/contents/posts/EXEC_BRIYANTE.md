@@ -1,13 +1,8 @@
-::: metadata
-
-# EXEC_BRIYANTE/.
-
-## AKANE AKAGI
-
-2016-05-26 20:14:25 初版
-2019-03-14 02:52:14 改題・リファイン
-
-:::
+---
+title: "EXEC_BRIYANTE/."
+published: "2016-05-26"
+edited: ["2019-03-14"]
+---
 
 Hyear. Ma ki ra na meo hymmne.
 聞け これは理想の詩ではない
@@ -44,7 +39,7 @@ Near en near repoear fane,
 Wearequewie meo rifaien.
 ここに理想は達成される
 
-----
+---
 
 お察しの通り、概ねベートーヴェンの「[交響曲第9番](https://ja.wikipedia.org/wiki/交響曲第9番_(ベートーヴェン))」に登場する[歓喜の歌](https://ja.wikipedia.org/wiki/歓喜の歌)。
 元の調子で歌えるようにはしてあるけど、綺麗にいけるかどうかはわからない。

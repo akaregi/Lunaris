@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HOMEOSTASIS/.
-
-## AKANE AKAGI
-
-2019-05-18
-
-:::
+---
+title: "EXEC_HOMEOSTASIS/."
+published: "2019-05-18"
+edited: [""]
+---
 
 Was ki ra na raklya innna sphilar hierle.
 たとえ悲しくても泣くことはない

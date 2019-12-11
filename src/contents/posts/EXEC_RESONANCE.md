@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_RESONANCE/.
-
-## AKANE AKAGI
-
-2019-10-31
-
-:::
+---
+title: "EXEC_RESONANCE/."
+published: "2019-10-31"
+edited: [""]
+---
 
 Ma yea wa wazx hymme, selena
 謳いましょう、奏でましょう

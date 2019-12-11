@@ -1,13 +1,8 @@
-::: metadata
-
-# EXEC_DISSENSION/.
-
-## AKANE AKAGI
-
-2017-02-05 01:31:31
-2019-03-15 01:42:25 リファイン
-
-:::
+---
+title: "EXEC_DISSENSION/."
+published: "2017-02-05"
+edited: [""]
+---
 
 Was yant gaya rre omnis cenjue.
 すべては変わってゆく
@@ -51,6 +46,6 @@ Was guwo gaya pauwel chs glasden dia,
 Was yant gagis qafl manafeeze mea.
 抗えない私がどう生きようか
 
-----
+---
 
 元の題は *EXEC_HYMME_O.delete/.* でした。

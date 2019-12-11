@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_INITIALIZER/.
-
-## AKANE AKAGI
-
-2017-06-29 00:00:00
-
-:::
+---
+title: "EXEC_INITIALIZER/."
+published: "2017-06-29"
+edited: [""]
+---
 
 [1] Was apea erra exec INIT=DEFINE.
 [1] Was apea ra 0x ixi.
@@ -43,6 +39,6 @@
 [1] 1x AAs ixi.
 [3] Rrha yea ra hymme sos yor…
 
-----
+---
 
 元の題は *EXEC_INIT=DEFINE/.* でした。

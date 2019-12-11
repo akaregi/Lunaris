@@ -1,13 +1,8 @@
-:::
-
-# EXEC_HYMME_DECLARE/.
-
-## AKANE AKAGI
-
-2017-09-13 23:34:27
-2019-03-15 20:40:51 リファイン
-
-::: metadata
+---
+title: "EXEC_HYMME_DECLARE/."
+published: "2017-09-13"
+edited: ["2019-03-15"]
+---
 
 Was yea ra chs hymmnos mea.
 私は詩となる

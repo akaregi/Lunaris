@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_EXCIEL/.
-
-## AKANE AKAGI
-
-2017-06-29 00:00:00
-
-:::
+---
+title: "EXEC_EXCIEL/."
+published: "2017-06-29"
+edited: [""]
+---
 
 yehah irs, wearequewie.
 幸福の存在、只其れを望まん

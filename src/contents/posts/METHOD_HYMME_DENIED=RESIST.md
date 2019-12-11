@@ -1,12 +1,8 @@
-::: metadata
-
-# METHOD_HYMME_DENIED=RESIST/.
-
-## AKANE AKAGI
-
-2017-09-13 23:36:50
-
-:::
+---
+title: "METHOD_HYMME_DENIED=RESIST/."
+published: "2017-09-13"
+edited: [""]
+---
 
 cUzU x. rre qejyu wIwIjnceh ut 1 h.m.m.r./.
 数多の人々の声を一つにし、

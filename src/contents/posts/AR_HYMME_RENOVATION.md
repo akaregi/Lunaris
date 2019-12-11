@@ -1,12 +1,8 @@
-::: metadata
-
-# AR_HYMME_RENOVATION/.
-
-## AKANE AKAGI
-
-2019-07-12
-
-:::
+---
+title: "AR_HYMME_RENOVATION/."
+published: "2019-07-12"
+edited: [""]
+---
 
 Nn num ga *ja* iem deggeez *laf* walasye, *do cas* wearequewie *a lai*.
 幾度も裏切られてきたけど、それでも人を信じたい。
@@ -23,6 +19,6 @@ Nn zweie ra *ceb* rifaien, *ceb* rifaien. *Wes* manafaln.
 Rrha num gagis *ja cas* valwa *lex* zash.
 痛みを以って清算されよう。
 
-----
+---
 
 斜体部分は *AR=LUSYE* 拡張による語です。

@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_TOMMORIA/.
-
-## AKANE AKAGI
-
-2016-05-15 10:22:30
-
-:::
+---
+title: "EXEC_HYMME_TOMMORIA/."
+published: "2016-05-15"
+edited: [""]
+---
 
 Was yea ra exec _TOMORRIA_ sos walasye.
 私は皆のためにTOMORRIAを実行する

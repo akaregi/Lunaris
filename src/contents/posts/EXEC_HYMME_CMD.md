@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_CMD/.
-
-## AKANE AKAGI
-
-2016-07-05 20:44:50
-
-:::
+---
+title: "EXEC_HYMME_CMD/."
+published: "2016-07-05"
+edited: [""]
+---
 
 Wee ki ra enter innna leaff OBJ=SESSION.
 現オブジェクトを実行中セッションへフェッチ及び介入開始
@@ -20,6 +16,6 @@ DIA=>accrroad walasye oz ar ciel cyurio.
 HALT=>kierre her wis nozess enw endia faja iem.
 現在実行中処理を継続しながらセッションのハルト開始
 
-----
+---
 
 なんかこういうプログラミングめいた文を書くのに紡いだ詩だった。深い意味はないし、なんなら何かが起こることもなさそう。

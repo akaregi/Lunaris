@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_FREAKIN=HOT=CIEL/.
-
-## AKANE AKAGI
-
-2019-05-26
-
-:::
+---
+title: "EXEC_HYMME_FREAKIN=HOT=CIEL/."
+published: "2019-05-26"
+edited: [""]
+---
 
 Rrha yant ga rre ciel chs heath! How heath!
 暑い! 暑すぎるわ!
@@ -24,7 +20,7 @@ rre saash grlanza jouee en meso walasye. Kiafa Ar Ciel?!?!
 **KIAFA HYNNE NOES ART YOR, SHEAK?!**
 聴こえるか、太陽よ?!
 
-----
+---
 
 最高気温が32度とかになった日に叫んだ詩。
 

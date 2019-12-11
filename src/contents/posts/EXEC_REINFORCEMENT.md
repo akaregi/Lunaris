@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_REINFORCEMENT/.
-
-## AKANE AKAGI
-
-2019-08-24
-
-:::
+---
+title: "EXEC_REINFORCEMENT/."
+published: "2019-08-24"
+edited: [""]
+---
 
 Rifaien, spiritum omnis,
 蘇れ、すべての魂よ

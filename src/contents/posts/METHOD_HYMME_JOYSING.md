@@ -1,12 +1,8 @@
-:::
-
-# METHOD_HYMME_JOYSING/.
-
-## AKANE AKAGI
-
-2017-02-05 01:32:07
-
-:::
+---
+title: "METHOD_HYMME_JOYSING/."
+published: "2017-02-05"
+edited: [""]
+---
 
 x. rre h.m.m.r. aLYAuk li v.t./.
 詩こそが生命！

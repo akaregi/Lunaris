@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_EXIMIND/.
-
-## AKANE AKAGI
-
-2016-09-30 22:14:12
-
-:::
+---
+title: "EXEC_HYMME_EXIMIND/."
+published: "2016-09-30"
+edited: [""]
+---
 
 Ma paks ra accrroad, Ma jyel ra re deggeez.
 与えて、裏切られて

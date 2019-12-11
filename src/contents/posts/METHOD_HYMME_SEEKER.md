@@ -1,12 +1,8 @@
-::: metadata
-
-# METHOD_HYMME_SEEKER/.
-
-## AKANE AKAGI
-
-2017-11-01 12:42:12
-
-:::
+---
+title: "METHOD_HYMME_SEEKER/."
+published: "2017-11-01"
+edited: [""]
+---
 
 rLYAfEm za k.t.n. Alyuma_cia nYAmYAleh dazua/.
 夜空に広がる星の流れを、私は見た。

@@ -1,12 +1,8 @@
-::: metadata
-
-# METHOD_HYMME_ADVANCE/.
-
-## AKANE AKAGI
-
-2017-01-14 16:15:51
-
-:::
+---
+title: "METHOD_HYMME_ADVANCE/."
+published: "2017-01-14"
+edited: [""]
+---
 
 yUzt vEtA sev wIseh/.
 与えられたときの中で輝いていたい

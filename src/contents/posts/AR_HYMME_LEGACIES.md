@@ -1,12 +1,8 @@
-::: metadata
-
-# AR_HYMME_LEGACIES/.
-
-## AKANE AKAGI
-
-2019-07-20
-
-:::
+---
+title: "AR_HYMME_LEGACIES/."
+published: "2019-12-02"
+edited: [""]
+---
 
 Wee zweie ra sallogna *al* phira van Ar Dor iem degle.
 世界が崩れゆこうとも種を蒔きつづける
@@ -26,6 +22,6 @@ Phiz *sak* syunaht *u* enesse *fis* tarfe innna *le* dor.
 *Atei* wazx hymme *al* waats *i* accrroad *al lai fal* dor.
 大切なものを謳い、この世界に記そう
 
-----
+---
 
 斜体部分は *AR=LUSYE* 拡張による語です。

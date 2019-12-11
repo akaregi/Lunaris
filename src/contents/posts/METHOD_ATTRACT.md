@@ -1,12 +1,8 @@
-::: metadata
-
-# METHOD_ATTRACT/.
-
-## AKANE AKAGI
-
-2018-10-20 02:07:13
-
-:::
+---
+title: "METHOD_ATTRACT/."
+published: "2018-10-20"
+edited: [""]
+---
 
 Cexm LYEarhou_ayulsa ag hLYEppAs iwl zz LYOkajya/.
 永遠の民衆の希望よ、いざ来たれよ 不条理が無い世界に想いを馳せながら

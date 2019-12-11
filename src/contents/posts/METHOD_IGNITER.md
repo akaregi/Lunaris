@@ -1,12 +1,8 @@
-::: metadata
-
-# METHOD_IGNITER/.
-
-## AKANE AKAGI
-
-2017-01-17 21:14:53
-
-:::
+---
+title: "METHOD_IGNITER/."
+published: "2017-01-17"
+edited: [""]
+---
 
 xE rre YEqejyu, reta hEmEmEr/.
 我が愛し子よ、どうか光の先へと進んでゆけ

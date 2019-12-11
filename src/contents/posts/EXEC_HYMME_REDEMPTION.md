@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_REDEMPTION/.
-
-## AKANE AKAGI
-
-2017-06-29 00:00:00
-
-:::
+---
+title: "EXEC_HYMME_REDEMPTION/."
+published: "2017-06-29"
+edited: [""]
+---
 
 Nn i ra re alroetsue sa oz mea.
 為した罪を悔い改めなければならない

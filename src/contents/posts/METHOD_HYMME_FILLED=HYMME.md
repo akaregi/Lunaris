@@ -1,12 +1,8 @@
-::: metadata
-
-# METHOD_HYMME_FILLED=HYMME/.
-
-## AKANE AKAGI
-
-2017-11-01 12:44:30
-
-:::
+---
+title: "METHOD_HYMME_FILLED=HYMME/."
+published: "2017-11-01"
+edited: [""]
+---
 
 Xc=ene -> hYAmmrA/.
 考えるなら謳おう

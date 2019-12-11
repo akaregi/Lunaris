@@ -1,12 +1,8 @@
-::: metadata
-
-# AR_HYMME_ISOLATE/.
-
-## AKANE AKAGI
-
-2019-07-23
-
-:::
+---
+title: "AR_HYMME_ISOLATE/."
+published: "2019-12-02"
+edited: [""]
+---
 
 Was num ga *aya* na swant *a tei wal* endia!?
 結局、あなたは私たちを救わないのだろう!?
@@ -17,6 +13,6 @@ Was num ga *aya* na swant *a tei wal* endia!?
 *Aya*, *ja*, accrroad.
 あなた達は、本当に、恵まれている。
 
-----
+---
 
 斜体部分は *AR=LUSYE* 拡張による語です。

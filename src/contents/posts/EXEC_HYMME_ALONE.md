@@ -1,13 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_ALONE/.
-
-## AKANE AKAGI
-
-2019-02-10 00:00:00
-2019-03-18 23:43:00 リファイン
-
-:::
+---
+title: "EXEC_HYMME_ALONE/."
+published: "2019-02-10"
+edited: ["2019-03-18"]
+---
 
 *Ma zweie gagis 0x vvi*.
 
@@ -35,6 +30,6 @@ rre walasye naja mea.
 flare gauzewiga gatyunla.
 この荒廃した大地に生き続けるのだ
 
-----
+---
 
 元の題は *EXEC_HYMME_ONE/.* でした。

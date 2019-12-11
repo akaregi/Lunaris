@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_with.METHOD_UNIV=CONNECTA/.
-
-## AKANE AKAGI
-
-2017-06-29 00:00:00
-
-:::
+---
+title: "EXEC_with.METHOD_UNIV=CONNECTA/."
+published: "2017-06-29"
+edited: [""]
+---
 
 Fou ki ra chs hymmnos mea.
 

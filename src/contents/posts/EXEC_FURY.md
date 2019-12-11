@@ -1,13 +1,8 @@
-::: metadata
-
-# EXEC_FURY/.
-
-## AKANE AKAGI
-
-2017-07-06 00:00:00
-2019-03-18 01:11:11 リファイン
-
-:::
+---
+title: "EXEC_FURY/."
+published: "2017-07-06"
+edited: ["2019-03-18"]
+---
 
 Was ki ra hyear, whou faura zenva.
 飛び立とうとする小鳥よ

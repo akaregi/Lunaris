@@ -1,13 +1,8 @@
-::: metadata
-
-# EXEC_LETHAL=CODE/.
-
-## AKANE AKAGI
-
-2017-11-23 00:56:39
-2019-03-20 18:36:11 リファイン
-
-:::
+---
+title: "EXEC_LETHAL=CODE/."
+published: "2017-11-23"
+edited: ["2019-03-20"]
+---
 
 presia, presia, rre quive dor cexm,
 私はただ静寂を望む

@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_FADE/.
-
-## AKANE AKAGI
-
-2018-10-20 02:07:13
-
-:::
+---
+title: "EXEC_HYMME_FADE/."
+published: "2018-10-20"
+edited: [""]
+---
 
 Rrha yea ga frissoner sphilar
 私の心は震える
@@ -32,6 +28,6 @@ Rrha yea ga frissoner noes
 hymme sos gyen crudea, re nozess
 悲しみを紡ぐ詩は消された
 
-----
+---
 
 元の題は *EXEC_HYMME_FADEDOUT/.* でした。

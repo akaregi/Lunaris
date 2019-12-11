@@ -1,13 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_COALL/.
-
-## AKANE AKAGI
-
-2016-08-21 00:19:42
-2019-03-14 03:20:14 リファイン
-
-:::
+---
+title: "EXEC_HYMME_COALL/."
+published: "2016-08-21"
+edited: ["2019-03-14"]
+---
 
 Wee zweie gaya na flip alroetsue.
 償いなんていらない
@@ -55,7 +50,7 @@ Ma num gaya wearequewie sos ar cerchio.
 Ma yea ra fountaina cyurio ar ciel.
 この世界が理で満たされることを
 
-----
+---
 
 なんか末法な感じですね。救いがないというか、いやむしろ自分からあえて蹴ってるというか。ひらたく言えば中二病の権化みたいな。紡いだのはほかでもない私なんだけど。
 

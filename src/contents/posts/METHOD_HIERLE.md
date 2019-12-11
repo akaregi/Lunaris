@@ -1,12 +1,8 @@
-::: metadata
-
-# METHOD_HIERLE/.
-
-## AKANE AKAGI
-
-2019-02-09
-
-:::
+---
+title: "METHOD_HIERLE/."
+published: "2019-02-09"
+edited: [""]
+---
 
 Glansee, gAwAn mea! gAwAn r.w.! gAwAn zwihander!
 神よ、私を導き給え! 救済を与え給え! 勝利を与え給え!
@@ -21,6 +17,6 @@ Zwihander, en wYAsA YAarhou ut mea!
 
 Rrha num gagis 0x vvi. **Handeres**. 1x AAs ixi.
 
-----
+---
 
 [METHOD_C/.](https://lunaris.fedyya.net/hymmnos/method_c) の続き。

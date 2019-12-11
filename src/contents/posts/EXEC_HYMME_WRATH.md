@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_WRATH/.
-
-## AKANE AKAGI
-
-2017-06-29 00:00:00
-
-:::
+---
+title: "EXEC_HYMME_WRATH/."
+published: "2017-06-29"
+edited: [""]
+---
 
 Was quel gagis presia syast omnis chs 1.
 群衆よ、瓦解せよ

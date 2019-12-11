@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_CONTRAST/.
-
-## AKANE AKAGI
-
-2019-11-12
-
-:::
+---
+title: "EXEC_HYMME_CONTRAST/."
+published: "2019-11-12"
+edited: [""]
+---
 
 Ma num ra rre ciel fountaina rudje
 灰色の大地に際立つのは

@@ -1,13 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_AKN=SIGNAL/.
-
-## AKANE AKAGI
-
-2016-12-24 00:37:46
-2019-03-14 02:58:14 リファイン
-
-:::
+---
+title: "EXEC_HYMME_AKN=SIGNAL/."
+published: "2016-12-24"
+edited: ["2019-03-14"]
+---
 
 Was ki ra 0x vvi.
 
@@ -52,6 +47,6 @@ eetor aiph mea tek.
 Was ki ra wearequewie.
 この願いが君に届くことを願う
 
-----
+---
 
 どういう意図で紡いだんだかは忘れましたが、題から察するに（AKN => AKANE?）それなりになんかあってやったのだろうと推測。

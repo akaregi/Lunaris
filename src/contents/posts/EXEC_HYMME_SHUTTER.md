@@ -1,12 +1,8 @@
-::: metadata
-
-# EXEC_HYMME_SHUTTER/.
-
-## AKANE AKAGI
-
-2016-09-30 22:12:48
-
-:::
+---
+title: "EXEC_HYMME_SHUTTER/."
+published: "2016-09-30"
+edited: [""]
+---
 
 Ma num wa rre ar omnis oz chyet re parge elle lof irs.
 選ばれた集団があるべき場所から切り離される

@@ -1,12 +1,8 @@
-::: metadata
-
-# METHOD_PAJA/.
-
-## AKANE AKAGI
-
-2017-01-14 00:00:00
-
-:::
+---
+title: "METHOD_PAJA/."
+published: "2017-01-14"
+edited: [""]
+---
 
 hLYOmLYOmLYOrLYO l.n.c.a. naflansee dn vega keg/.
 この手で人々の繋がりを破壊する いざ戦え
